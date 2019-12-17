@@ -2,10 +2,10 @@
 
 # 1. 게임랭킹 크롤링
 #### 1) game6.py
-  - 파일설명 : 게임랭킹 9/1~11/29 크롤링
+  > 파일설명 : 게임랭킹 9/1~11/29 크롤링
   - output : project/csv파일들
 #### 2) remove_index_from_csv.py
-  - 파일설명 : project/csv파일에서 index 삭제
+  > 파일설명 : project/csv파일에서 index 삭제
   - output : project2/csv파일들
 #### 3) insert_date_to_csv.py
   - 파일설명 : project2/csv파일에 date 추가
