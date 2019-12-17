@@ -1,17 +1,17 @@
 # Crawling2019
 
 # 1. 게임랭킹 크롤링
-## 1) game6.py : 게임랭킹 9/1~11/29 크롤링
+### 1) game6.py : 게임랭킹 9/1~11/29 크롤링
   - output : project/csv파일들
-## 2) remove_index_from_csv.py : project/csv파일에서 index 삭제
+### 2) remove_index_from_csv.py : project/csv파일에서 index 삭제
   - output : project2/csv파일들
-## 3) insert_date_to_csv.py : project2/csv파일에 date 추가
+### 3) insert_date_to_csv.py : project2/csv파일에 date 추가
   - output : project3/csv파일들
-## 4) processing_info_from_csv.py : project3/csv파일에서 50개 게임 랭킹 합침
+### 4) processing_info_from_csv.py : project3/csv파일에서 50개 게임 랭킹 합침
   - output : game_rank_data_top50.csv
   
 # 2. 게임정보 크롤링
-##1) game_info_full.csv.py : 게임정보 50개 게임대해 크롤링
+## 1) game_info_full.csv.py : 게임정보 50개 게임대해 크롤링
   - output : game_info_full.csv
   
 # 3. youtube 크롤링(한개 게임 대해)
